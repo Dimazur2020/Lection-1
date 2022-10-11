@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\bin\Debug\net6.0\Lections005.exe
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\bin\Debug\net6.0\Lections005.deps.json
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\bin\Debug\net6.0\Lections005.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\bin\Debug\net6.0\Lections005.dll
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\bin\Debug\net6.0\Lections005.pdb
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.dll
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\refint\Lections005.dll
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.pdb
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\Lections005.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C#\Lection 1\Lections005\obj\Debug\net6.0\ref\Lections005.dll
